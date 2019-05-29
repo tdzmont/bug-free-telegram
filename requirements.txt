@@ -1,0 +1,4 @@
+# Install using 'pip install -r requirements.txt'
+
+Django==1.8.9
+paramiko==1.7.0
