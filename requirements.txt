@@ -1,0 +1,9 @@
+# Install using 'pip install -r requirements.txt'
+
+Django==1.8.9
+lxml==2.2.3
+paramiko==1.7.1
+pytest==2.6.1
+requests==2.5.1
+scp==0.10.2
+
